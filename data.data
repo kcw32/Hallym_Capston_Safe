@@ -1,0 +1,9 @@
+classes= 1
+
+train  = C:\Users\kwak1\darknet-master\build\darknet\x64\train\list.txt
+
+valid  = C:\Users\kwak1\darknet-master\build\darknet\x64\train\list.txt
+
+names = C:\Users\kwak1\darknet-master\build\darknet\x64\train\classes.txt
+
+backup = C:\Users\kwak1\darknet-master\build\darknet\x64\train\backup
