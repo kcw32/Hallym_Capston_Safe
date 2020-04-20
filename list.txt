@@ -1,0 +1,256 @@
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\1 (1).jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\1 (10).jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\1 (11).jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\1 (12).jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\1 (13).jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\1 (14).jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\1 (15).jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\1 (16).jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\1 (17).jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\1 (18).jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\1 (19).jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\1 (2).jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\1 (21).jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\1 (22).jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\1 (23).jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\1 (24).jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\1 (25).jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\1 (26).jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\1 (27).jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\1 (28).jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\1 (29).jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\1 (3).jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\1 (30).jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\1 (31).jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\1 (32).jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\1 (33).jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\1 (35).jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\1 (36).jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\1 (37).jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\1 (38).jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\1 (39).jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\1 (4).jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\1 (40).jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\1 (41).jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\1 (42).jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\1 (43).jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\1 (44).jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\1 (45).jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\1 (46).jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\1 (47).jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\1 (48).jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\1 (49).jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\1 (5).jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\1 (50).jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\1 (51).jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\1 (52).jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\1 (53).jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\1 (54).jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\1 (55).jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\1 (56).jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\1 (57).jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\1 (58).jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\1 (59).jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\1 (6).jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\1 (7).jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\1 (8).jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\1 (9).jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\1.MMHtPdO.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\10.fe3b0b9fb727be9746eba8396bc12794.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\106.QXuPXiE.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\108.e36a0b981bcd6179adc0baf09359afd2.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\11.CKb6n1yUMAAybWY.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\112.07c93db0503fceda23bf77fe109035ed.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\113.3067971952_TgHXoR2a_1777F14C4E71FCEF1DE718.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\114.DFPo2bvUMAAW5wp.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\12.2016072919551619774-540x810.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\122.20130508002437_0.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\128.7856ecc1ec786ff95204fb576dbe42bd.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\13.20151229_221401_1213932192.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\131.38637442-pretty-women-s-legs-with-elegant-black-stockings-and-high-heels.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\134.4e39254f9f5280960d94ca10e6278435.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\14.smp_thum_21d1955d7ef809bbad9c106bb9248a0b832773cd.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\142.afaf.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\143.dfad66ade29244377787337b2cec8136.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\144.White-skirt-Asian-girl-legs-sexy_iphone_640x1136.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\145.tumblr_pswj5tuLTr1tg0ejt_1280.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\146.EsPsHBG6BMKkulh7lHM.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\147.NlyxcRr.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\149.2018051800728_0.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\15.KjgVieY3fGR.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\150.03cf9469c515ce316acdc1d7da4e71b4.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\155.cbda5e61.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\159.20131017003835_0.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\159.20131101093549ee9.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\16.8878a872b10fc8e92a07837e43c5b176.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\161.naver_com_20120606_122722.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\162.0105-kidnapfile.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\163.2014122311191815b.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\164.2017080101000121800005151.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\166.%ED%95%9C%EC%B1%84%EC%98%811.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\169.2014080715290928781_00_580.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\169.Visible_pantylines-stairs.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\170.20130516_1368662303.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\171.CdFxzoA.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\171.LIzzy2.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\173.8173fd726238cc2c0063a274aa71064b.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\174.img_20160304205325_c283bd12.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\177.2018032800545_0.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\178.97eabb1e8ea6b3255627163251d692d4.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\179.010628880030.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\18.20180726200306400ssni.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\180.6ea58505d5c855b943204b88f6899e86.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\180.i0842061682.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\19.e0282449_5154f07762aa4.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\194.AeQzt.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\195.201206180936773784_2.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\195.NlyxcRr.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\197.2016110201860_0.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\197.hqdefault.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\198.1OL2PKSMU1_1.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\199.201510181328773568_562320435c8f6.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\2.84548127.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\20.201708040814397910_1.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\20.58590580.1.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\201.2014841391326825.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\202.9GfRwKZ.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\205.f75322da58b11d61eb8868fd3ce1a345.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\206.201508071142561810_1.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\208.5a5ee10c02a7b4b7ebb0c55fcaabf813.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\209.201509012128342010_1.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\21.03cf9469c515ce316acdc1d7da4e71b4.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\21.a0101020_496daac110287.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\213.f0495019_529bdc63d4a18.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\214.f779e00f6a340eb98adad14d85e2aa54.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\216.White-skirt-Asian-girl-legs-sexy_2560x1600.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\217.2014224132956m364kim_T5_69125.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\22.f5a3e1979a9372070c7508074f5948ea.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\220.i4734307251.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\224.0963.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\225.6a2f9d372cbe27f69768a8878ad154ab.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\225.93d2997a608eb349ffba7f0439226ee2.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\226.78Hq3CN.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\226.qgcMxmfoRc.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\227.CQ8qTiqUwAArTkJ-768x1024.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\229.img_20170614141114_f6ef90d7.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\230.zjovhru.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\231.0283788a5d4cd1b14a7fc45e9cc86121.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\24.7704057dcf3c4944a613df7550efe51e.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\242.2014070701739_1.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\245.img_20170417181712_6cd2b9d7.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\25.3464e70869e38e02e7bdce635a3d7038.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\25.i2105123734.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\250.d0010203_4f724b8c9848c.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\251.e0245667_514ce2411c32c.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\253.2015090601962_0.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\255.1526599493967520.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\257.b64948b5367ab77d3b2c55e110e75101.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\259.f0495019_529bdc63d4a18.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\26.1680_1050_20130110065125550366.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\261.2017080101000121800005151.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\263.d9ee6faddcab942774f5039b65c8b85e.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\263.sex+(34).jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\264.54117942b62eafb05498d64eb30be2b9_JVOnM2cVTQNSNnbNT2kewgU.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\266.htm_2015040392946c010c011.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\267.de6064784ab88ba777ba5f240fb41439.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\268.sys53-1024x535.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\269.4f5d44c9c813c84e24289667571aaf95.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\27.12ac7b30ac4ab49556e41e001267cb12.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\27.sex+(34).jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\271.001.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\272.20100504002893_0.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\28.DFPo2bvUMAAW5wp.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\28.zjovhru.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\282.Alexa+Chung+Walks+Friend+SoHo+2Ccgt1yxXKBx.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\283.a0026326_4b9d9dacae303.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\287.01533baff895a921c04c02677bf20534_1528138641.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\288.20130508002437_0.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\289.2f4bd0dd921e2f280feb0357651d34f2.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\29.HtdxSCudLSR1AK6fCYjNlfwlSsisxdKt.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\291.06dd25a95784ab7a62b565e86ba18685.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\296.a02eef06139fcfc30ecf24e6764107b3.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\3.20120530100309162.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\30.30000582022_700.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\300.23a14535e721f50ee0e273566650f1e5.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\302.20180430224935_1208978_600_1000.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\308.ebc44d7bf564d0a02d1bd61a5fe82e24.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\31.14370387.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\324.nfc4XJM8NP1Nfdi3Rx2x5dMpK.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\326.b7b9849ff81b485056742dca4766d92d.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\33.4f5d44c9c813c84e24289667571aaf95.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\343.2016081209063721220-540x810.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\348.gfriend-1.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\351.20170406171601_194830934.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\352.9030b50a83cdf357d0472c9f8750de8e_ARWbJFnwgvZTP8SdA1zgAZqw6ah.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\352.QXuPXiE.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\354.68355882dd5f81a0c909901c1065d97c.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\36.a7410a5d45a838322ae178b6d0974610.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\361.100604062000.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\368.2bfd7815359aac6f1151e4c7a6baf010.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\37.1920_1200_20130110065217558668.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\374.9030b50a83cdf357d0472c9f8750de8e_VI3KBQkMDKA8M.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\376.10000372207.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\38.1c60016cfbc179.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\38.image_readmed_2011_230837_1302574805406101.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\381.IE001987708_STD.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\382.37a1e81c11ef729e1ce106fe723138ee.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\383.b0102130_4c5d7d4920f8c.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\385.2014051203310_17.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\39.20140904105701302.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\39.40fee64ab05e3aff225c0ad42ddfeb05.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\394.TgtJk.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\395.KjgVieY3fGR.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\396.roScl.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\399.19d1519244d44d91ae850ac77d352b90.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\4.20130131205310064.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\40.9baf34ad25626836e8dd49e4397dc0bb.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\401.a-214.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\404.3b40b1df7cb82def75f261320e35c3cd.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\405.a0101020_496daac110287.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\407.1802512ea30f422c6db4d7733bfdef4b.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\410.ybrwWb25byugGZfapVbQYM8SEtpqKT.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\412.1_L_1377842824.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\413.2015012704132_0.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\415.865eef81f10049a650cff316415d5350.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\421.e0262191_514e789c76e42.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\43.200806231813492841276A_1.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\44.thumb-d86de172bb176cac987f87028b527585_1587089853_531_600x748.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\45.470472c515bfe&filename=462c559a1b2d0%5B1%5D_1[1].jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\47.3ace465641b3549c281761aba663e30c.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\48.2011-07-09_00%3B48%3B44.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\49.60408d8044a2784a3bafd420f0340b21.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\5.pBgTOiQIL6apCrdVEUu6bOkkThBU1hn.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\53.cefa2bd1-be23-4c2f-baf4-321aa8889318.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\54.img_20170417181254_148015c3.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\55.l.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\56.hqdefault.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\58.2017120201089_0.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\59.%ED%8A%B8%EC%99%80%EC%9D%B4%EC%8A%A4%20%EB%82%98%EC%97%B0.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\60.e0218880_5148964277e4b.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\61.03.14438613.1.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\62.20170406171601_194830934.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\62.or38Psf.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\63.xfbTQ2ugyxotwdNoDBpyCXRs3HCfT.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\64.84852f760b9e3897f2e4b5af4875f8d0.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\65.18g685234dhdg3d18x34.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\66.5a5ee10c02a7b4b7ebb0c55fcaabf813.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\68.Sowon-GFRIEND18.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\7.214c4e706791474611d4722e78cdedb8.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\70.3553073549_JoEz10UI_GuGfc6l.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\71.b8e8594cd5aba5c549a95a12a60c33a0.gif.thumb.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\72.68d668e9cd9584a43a769c18a81e5c60.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\73.e9ac04bec1dbc445ce44e63072ba3b6b.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\75.7fca1bf6f2b77ac2e5dfd252cd389d94_984318586.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\79.20130508002437_0.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\79.a0f72eb050e2d3f421fc71f347b53623.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\8.d0afd146736782fb9cafc16a0a5455a9.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\81.c0191833_51207490ed0da.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\83.img_20160304205325_c283bd12.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\83.irene-5.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\84.81e1686bf8131e697a9e4061c7e72ee4.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\85.11-12-1024x1024.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\86.2012061919133224.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\87.649849.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\88.37a1e81c11ef729e1ce106fe723138ee.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\9.99b983892094b5c6d2fc3736e15da7d1.jpg
+C:\Users\kwak1\darknet-master\build\darknet\x64\train\90.a-214.jpg
