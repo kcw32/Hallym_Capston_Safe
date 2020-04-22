@@ -1,1 +1,14 @@
-# Hallym_Capston_Safe
+# 팀명
+SafeTeam
+
+# 모델명
+Safe Camera
+
+# 주제
+스마트폰을 통한 불법촬영 방지 
+
+# 팀 구성
+팀장 곽찬우
+팀원 박인근
+팀원 백예지
+팀원 이유나
