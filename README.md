@@ -3,14 +3,17 @@ SafeTeam
 Safe Camera(불법촬영 방지)
 
 
-# 팀 구성
-팀장 [곽찬우](https://github.com/kcw32/Hallym_Capston_Safe/tree/kcw32-darknetBranch)
+#  팀 구성
+지도교수 :  김병정
 
-팀원 [박인근](https://github.com/kcw32/Hallym_Capston_Safe/tree/Parkingeun)
+팀장     : [곽찬우](https://github.com/kcw32/Hallym_Capston_Safe/tree/kcw32-darknetBranch)
 
-팀원 [백예지](https://github.com/kcw32/Hallym_Capston_Safe/tree/BaekYeji)
+팀원 : [박인근](https://github.com/kcw32/Hallym_Capston_Safe/tree/Parkingeun)
+ 
+팀원 : [백예지](https://github.com/kcw32/Hallym_Capston_Safe/tree/BaekYeji)
 
-팀원 [이유나](https://github.com/kcw32/Hallym_Capston_Safe/tree/YunaLee)
+팀원  : [이유나](https://github.com/kcw32/Hallym_Capston_Safe/tree/YunaLee)
+
 
 # 주제
 스마트폰을 통한 불법촬영 방지, 예방 
@@ -25,3 +28,10 @@ Safe Camera(불법촬영 방지)
 ![git](https://user-images.githubusercontent.com/62688481/80093414-5e809200-859f-11ea-87d9-6951dbd5ede6.PNG)
 
 
+
+
+
+
+
+# 기대효과
+세가지 모델을 합쳐 만든 Safe Camera는 불법촬영 시도 자체를 사전에 방지하고 만약 불법촬영을 시도를 했다면 큰 알림소리와 진동으로 주변에 성번죄로부터의 위험성을 알릴 수 있다.
