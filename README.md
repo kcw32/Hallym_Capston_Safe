@@ -1,1 +1,4 @@
-# Hallym_Capston_Safe
+# 브랜치 kcw
+
+# 설명
+Yolov3를 통한 맨다리 검출 모델
