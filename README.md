@@ -10,7 +10,7 @@ Safe Camera
 # 팀 구성
 팀장 [곽찬우](https://github.com/kcw32/Hallym_Capston_Safe/blob/kcw32-darknetBranch/README.md)
 
-팀원 [박인근](https://github.com/kcw32/Hallym_Capston_Safe/blob/Parkingeun/README.md)
+팀원 [박인근](https://github.com/kcw32/Hallym_Capston_Safe/tree/Parkingeun)
 
 팀원 [백예지](https://github.com/kcw32/Hallym_Capston_Safe/tree/BaekYeji)
 
