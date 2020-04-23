@@ -21,3 +21,7 @@ Safe Camera(불법촬영 방지)
 타인을 몰래 찍는 몰래카메라 범죄가 나날이 기승을 부리고 있다. 그래서 이러한 몰래카메라 범죄를 예방을 하기위해 safe camera
 프로젝트를 계획했다.
 
+# 프로젝트 내용 & 목표
+![git](https://user-images.githubusercontent.com/62688481/80093414-5e809200-859f-11ea-87d9-6951dbd5ede6.PNG)
+
+
