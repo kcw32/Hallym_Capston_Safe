@@ -1,20 +1,11 @@
-# 팀명
-SafeTeam
+## Hallym_Capston_Safe
 
-# 모델명
-Safe Camera
+### 20145128_박인근
 
-# 주제
-스마트폰을 통한 불법촬영 방지 
+### Safe_Check 를 위해 참고한 자료
 
-# 팀 구성
-팀장 곽찬우
+#### 움직임 검출 : https://webnautes.tistory.com/1248
 
-팀원 박인근
+#### 첫 테스트 영상 출처 : http://www.cvc.uab.es/~bagdanov/master/videos/car-overhead-1.avi
 
-팀원 백예지
-
-팀원 이유나
-
-# 상세 설명
-스마트폰으로 특정 부위를 도촬할 경우(노출이 많은 부분)를 방지하는 시
+#### 개체 추적 및 동작 감지 함수 : https://codens.info/594
