@@ -12,7 +12,7 @@ Safe Camera
 
 팀원 박인근
 
-팀원 백예지
+팀원 [백예지](https://github.com/kcw32/Hallym_Capston_Safe/tree/BaekYeji)
 
 팀원 이유나
 
