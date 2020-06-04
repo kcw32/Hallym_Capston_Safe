@@ -39,3 +39,12 @@ Safe Camera(불법촬영 방지)
 
 
 # 개발 환경
+darknet
+
+ Yolo v3 in other frameworks
+ 
+   TensorFlow
+   
+   OpenCV/Python
+   
+ Yolo v4
