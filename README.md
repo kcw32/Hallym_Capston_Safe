@@ -2,7 +2,7 @@
 
 ### 20145128_박인근
 
-### Safe_Team_Camera_ 를 위해 참고한 자료
+### Safe_Team_Camera_Check_model 를 위해 참고한 자료
 
 #### 움직임 검출 : https://webnautes.tistory.com/1248
 
